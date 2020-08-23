@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commands>
+	<addCategory
+		id="custom_1519662075599"
+		name="Otros"
+		description=""
+		visible="true"
+		open="true"/>
+	<addComponent
+		id="custom_1519662156027"
+		name="Luz"
+		visible="true"
+		class="pulsador.Luz"
+		category="custom_1519662075599"/>
+</commands>

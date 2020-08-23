@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.awt.Color"/>
+<fullyQualifiedTypeName name="javax.swing.JFileChooser"/>
+<fullyQualifiedTypeName name="com.sun.java.util.jar.pack.Package.File"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="java.util.EventObject"/>
+<fullyQualifiedTypeName name="pulsador.IEncendidoListener"/>
+<fullyQualifiedTypeName name="umu.tds.componente.BuscadorCanciones"/>
+<fullyQualifiedTypeName name="umu.tds.componente.CancionesListener"/>
+<fullyQualifiedTypeName name="umu.tds.componente.Canciones"/>
+<fullyQualifiedTypeName name="umu.tds.componente.IBuscadorCanciones"/>
+<fullyQualifiedTypeName name="controlador.ControladorAppMusic"/>
+<fullyQualifiedTypeName name="java.util.Comparator"/>
+</qualifiedTypeNameHistroy>
